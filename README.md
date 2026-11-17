@@ -30,7 +30,7 @@ image used by link unfurls.
 ## Domain
 
 The canonical URL, Open Graph tags, JSON-LD in `index.html`, `robots.txt` and `sitemap.xml` all use
-`https://christow.github.io/Krzysztof-Walas/`. Update them together if the site moves to its own domain.
+`https://christow.github.io/`. Update them together if the site moves to its own domain.
 
 ## Where the content came from
 

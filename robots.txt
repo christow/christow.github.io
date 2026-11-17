@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://christow.github.io/Krzysztof-Walas/sitemap.xml
+Sitemap: https://christow.github.io/sitemap.xml
